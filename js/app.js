@@ -9,4 +9,5 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     });
     router(); // Load the initial route
+    console.log("app working")
 });
