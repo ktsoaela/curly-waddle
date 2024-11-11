@@ -4,6 +4,7 @@ import Contact from './views/contact.js'
 
 const baseRoutes = {
     "/": Home,
+    "/base": Home,
     "/about": About,
     "/contact": Contact,
 };
